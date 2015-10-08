@@ -1,1 +1,1 @@
-ln -s ~/.screen/screenrc ~/.vimrc
+ln -s ~/.screen/screenrc ~/.screenrc
